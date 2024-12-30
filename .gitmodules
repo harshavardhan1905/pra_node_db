@@ -1,0 +1,3 @@
+[submodule "pranodedb"]
+	path = pranodedb
+	url = https://github.com/harshavardhan1905/pranodedb.git
